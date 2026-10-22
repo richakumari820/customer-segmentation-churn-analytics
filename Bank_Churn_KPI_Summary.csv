@@ -1,0 +1,5 @@
+KPI,Result,Interpretation
+Overall Churn Rate,20.37%,Overall customer exit rate
+High-Value Customer Churn Rate,22.27%,Churn in the defined high-value proxy group
+Geographic Risk Index - Germany,32.44%,Highest country-level churn rate
+Engagement Drop Indicator,12.58 percentage points,Difference between inactive and active customer churn
